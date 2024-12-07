@@ -28,8 +28,8 @@ Microsoft Sentinel のデプロイがセキュリティ イベントを受け取
 
 シミュレートされた攻撃を使用して、Microsoft Sentinel で分析ルールをテストします。 詳細については、[特権エスカレーション攻撃のシミュレーション](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1078.003/T1078.003.md)を参照してください。
 
-1. Azure で **vm1** 仮想マシンを見つけて選択し、メニュー項目を **[操作]** まで下にスクロールして、**[コマンドの実行]** を選択します。
-1. **[コマンドの実行]** ペインで、**[RunPowerShellScript]** を選択します
+1. Azure で **vm1** 仮想マシンを見つけて選択し、メニュー項目を **[操作]** まで下にスクロールして、**[実行コマンド]** を選択します。
+1. **[実行コマンド]** ペインで、**[RunPowerShellScript]** を選択します
 1. 以下のコマンドをコピーして、`PowerShell Script` フォームへの管理アカウントの作成をシミュレートし、**[実行]** を選択します
 
     ```CommandPrompt

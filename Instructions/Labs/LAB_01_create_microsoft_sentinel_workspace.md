@@ -38,7 +38,7 @@ Microsoft Sentinel ワークスペースをデプロイする必要がありま�
   1. リソース グループとして `RG2` を選びます
   1. 新しい Log Analytics ワークスペースの有効な名前を入力します。
   1. ワークスペースのリージョンとして `West US` を選択します。
-  1. **[確認および作成]** を新しいワークスペースを検証します。
+  1. **[確認と作成]** を新しいワークスペースを検証します。
   1. **[作成]** を選択して、ワークスペースをデプロイします。
 
 ### タスク 2 - Microsoft Sentinel をワークスペースにデプロイする
@@ -59,20 +59,20 @@ Microsoft Sentinel ロールをユーザーに割り当てます。 詳細につ
   1. 検索バーで、`Microsoft Sentinel Contributor` ロールを検索して選択します。
   1. **[次へ]** を選択します。
   1. `User, group, or service principal` オプションを選択します。
-  1. **[+ メンバーの選択]** を選択します。
+  1. **[+ メンバーを選択する]** を選択します。
   1. ラボの手順 `(operator1-XXXXXXXXX@LODSPRODMCA.onmicrosoft.com)` で割り当てられた `Operator1` を検索します。
   1. `user icon` を選択します。
   1. **[選択]** を選びます。
-  1. [確認と割り当て] を選択します
-  1. [確認と割り当て] を選択します
+  1. [レビューと割り当て] を選択します
+  1. [レビューと割り当て] を選択します
 
 ### タスク 4 - データ保持を構成する
 
-データ保持を構成します。詳細については、[データ保持](https://learn.microsoft.com/azure/azure-monitor/logs/data-retention-archive)を参照してください。
+データ保持を構成します。詳細については、[データの保持期間](https://learn.microsoft.com/azure/azure-monitor/logs/data-retention-archive)を参照してください。
 
   1. タスク 1 の手順 5 で作成した `Log Analytics workspace` 移動します。
   1. **[使用量と推定コスト]** を選択します。
-  1. **[データ保持]** を選択します。
+  1. **[データの保持期間]** を選択します。
   1. データ保持期間を **180 日**に変更します。
   1. **[OK]** を選択します。
 
