@@ -1,18 +1,10 @@
-#README
+# Microsoft Sentinel を使用して SIEM セキュリティ オペレーションを構成する
 
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
-# APL-5001: Microsoft Sentinel を使用して SIEM セキュリティ オペレーションを構成する
-
-- **[ラボへのリンク (HTML 形式)]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
+- **[ラボへのリンク (HTML 形式)]( https://microsoftlearning.github.io/configure-siem-security-operations-using-microsoft-sentinel/)**
 
 - **あなたは MCT ですか?** - [MCT 向けの GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
 
-## 説明
+## ここでの内容
 
 - このコースをサポートし、コースで使用される Azure サービスを最新の状態に保つために、コース コンテンツを頻繁に更新します。 ラボの手順とラボ ファイルは GitHub で公開しています。これにより、コースの作成者と MCT (Microsoft 認証トレーナー) 間でのオープンな作業が可能となり、製品の変更に合わせてコンテンツを最新の状態に保つことができます。
 
