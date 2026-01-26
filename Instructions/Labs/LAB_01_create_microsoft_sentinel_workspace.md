@@ -28,6 +28,8 @@ Microsoft Sentinel ワークスペースをデプロイする必要がありま�
 
 ## 演習の手順
 
+### このラボの推定所要時間: 30 分
+
 ### タスク 1 - Log Analytics ワークスペースを作成する
 
 リージョン オプションを含む Log Analytics ワークスペースを作成します。 詳細については、[Microsoft Sentinel のオンボーディング](https://learn.microsoft.com/azure/sentinel/quickstart-onboard)を参照してください。

@@ -37,6 +37,8 @@ SecurityEvent
 
 >**注**: 次のタスクでは、`Microsoft Sentinel` にアクセスするために、ラボ 01 で作成した `workspace` を選択します。
 
+### このラボの推定所要時間: 20 分
+
 ### タスク 1 - Microsoft Sentinel でデータ収集ルール (DCR) を構成する
 
 AMA コネクタを使用して Windows セキュリティ イベントを構成します。 詳細については、[AMA コネクタを使用した Windows セキュリティ イベント](https://learn.microsoft.com/azure/sentinel/data-connectors/windows-security-events-via-ama)を参照してください。
@@ -71,7 +73,7 @@ Microsoft Sentinel でほぼリアルタイム (NRT) の分析ルールを使用
  1. **[次へ: 確認と作成]** を選択します
  1. 検証が完了したら **[保存]** を選択します
 
-### タスク 3 - Microsoft Sentinel でオートメーションを構成する 
+### タスク 3 - Microsoft Sentinel でオートメーションを構成する
 
 Microsoft Sentinel でオートメーションを構成します。 詳細については、[Microsoft Sentinel オートメーション ルールの作成と使用](https://learn.microsoft.com/azure/sentinel/create-manage-use-automation-rules)を参照してください。
 

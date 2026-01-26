@@ -35,6 +35,8 @@ Microsoft Sentinel ワークスペースにコンテンツ ハブのソリュー
 
 >**注**: 次のタスクでは、`Microsoft Sentinel` にアクセスするために、ラボ 01 で作成した `workspace` を選択します。
 
+### このラボの推定所要時間: 45 分
+
 ### タスク 1 - Microsoft Sentinel コンテンツ ハブのソリューションをデプロイする
 
 コンテンツ ハブのソリューションをデプロイし、データ コネクタを構成します。 詳細については、[コンテンツ ハブのソリューション](https://learn.microsoft.com/azure/sentinel/sentinel-solutions)を参照してください。
