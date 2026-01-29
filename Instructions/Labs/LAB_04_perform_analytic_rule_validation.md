@@ -24,6 +24,8 @@ Microsoft Sentinel のデプロイがセキュリティ イベントを受け取
 
 ## 演習の手順
 
+### このラボの推定所要時間: 10 分
+
 ### タスク 1 - シミュレートされた特権エスカレーション攻撃を実行する
 
 シミュレートされた攻撃を使用して、Microsoft Sentinel で分析ルールをテストします。 詳細については、[特権エスカレーション攻撃のシミュレーション](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1078.003/T1078.003.md)を参照してください。
